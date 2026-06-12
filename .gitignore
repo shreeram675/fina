@@ -1,0 +1,13 @@
+.cache/
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+capex-iq-project.zip
+
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
+frontend/.workspace/
+frontend/.git
